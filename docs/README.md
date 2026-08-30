@@ -11,6 +11,7 @@ de dados.
 - Compras e Performance de Fornecedores
 - People Analytics — RH e Turnover
 - Faturamento E-commerce Brasil
+- Dashboard de Suporte Técnico (Helpdesk)
 - Fluxo de Caixa Automatizado em Excel e VBA
 
 O site foi construído em HTML, CSS e JavaScript e está preparado para publicação
@@ -24,4 +25,5 @@ no GitHub Pages.
 - [Performance de Transportadoras](projetos/performance-transportadoras.md)
 - [Performance de Fornecedores](projetos/performance-fornecedores.md)
 - [Recursos Humanos e Turnover](projetos/rh-turnover.md)
+- [Dashboard de Suporte Técnico (Helpdesk)](projetos/dashboard-helpdesk.md)
 - [Fluxo de Caixa Automatizado em Excel e VBA](projetos/fluxo-caixa-excel-vba.md)
