@@ -160,5 +160,5 @@ GO
     - FatoConsultas -> Exames/Pagamentos: unica.
 
     Para os visuais, use Soma nos campos Qtd*, ReceitaRealizada,
-    PerdaPotencial, ValorExame e ValorPago. Nenhuma medida DAX e necessaria.
+    PerdaPotencial, ValorExame e ValorPago. Os cartoes do relatorio usam medidas DAX.
 */
