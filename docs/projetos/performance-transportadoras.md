@@ -53,7 +53,7 @@ comparar transportadoras e encontrar oportunidades de melhoria operacional.
 ## Valor para o negócio
 
 O dashboard apoia a escolha e a negociação com transportadoras, melhora a
-visibilidade sobre atrasos e contribui para reduzir custos e ocorrências.
+visibilidade sobre atrasos e pode apoiar a redução de custos e ocorrências.
 
 ## Observação
 
