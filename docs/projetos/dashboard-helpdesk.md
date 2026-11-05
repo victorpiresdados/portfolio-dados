@@ -143,6 +143,10 @@ categoria, prioridade, status e equipe.
 - cuidado com filtros explícitos em `CALCULATE` que podem sobrescrever a
   quebra por categoria de um visual.
 
+## Código
+
+[Ver o código do pipeline](../../codigo/helpdesk/)
+
 ## Observação
 
 Os dados utilizados no projeto são fictícios e destinados exclusivamente a

@@ -107,6 +107,10 @@ por meio da agregação prévia dos exames por consulta.
 - diferenciação entre receita realizada e perda potencial;
 - comunicação de indicadores de saúde de forma simples e orientada à decisão.
 
+## Código
+
+[Ver o código SQL](../../codigo/clinica-medica/)
+
 ## Observação
 
 Os dados utilizados no projeto são fictícios e destinados exclusivamente a
