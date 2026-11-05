@@ -9,7 +9,6 @@ de dados.
 - Performance de Transportadoras
 - Compras e Performance de Fornecedores
 - People Analytics — RH e Turnover
-- Faturamento E-commerce Brasil
 - Dashboard de Suporte Técnico (Helpdesk)
 - Fluxo de Caixa Automatizado em Excel e VBA
 
@@ -19,7 +18,6 @@ no GitHub Pages.
 ## Documentação dos projetos
 
 - [Dashboard Clínica Médica](projetos/dashboard-clinica-medica.md)
-- [Faturamento E-commerce Brasil](projetos/faturamento-ecommerce-brasil.md)
 - [Performance de Transportadoras](projetos/performance-transportadoras.md)
 - [Performance de Fornecedores](projetos/performance-fornecedores.md)
 - [Recursos Humanos e Turnover](projetos/rh-turnover.md)
